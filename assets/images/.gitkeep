@@ -1,0 +1,9 @@
+# Assets Folder
+
+Place your image assets here. Supported formats:
+- PNG
+- JPG/JPEG
+- SVG
+- GIF
+
+Remember to update pubspec.yaml if you add new asset directories.
